@@ -33,6 +33,12 @@
         <mxCell id="IM8HNvWXzFvTKMa9jwpP-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="310" width="80" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="IM8HNvWXzFvTKMa9jwpP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="379.57142857142867" as="targetPoint" />
+            <mxPoint x="470" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
