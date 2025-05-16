@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-15" value="状态预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="130" height="45" as="geometry" />
+          <mxGeometry x="390" y="540" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-44" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="_Dc2JiTwuy_Aa-L4UX0m-16" target="_Dc2JiTwuy_Aa-L4UX0m-17">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="550" y="542.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-17" value="状态更新" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="545" y="600" width="130" height="35" as="geometry" />
+          <mxGeometry x="550" y="600" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-18" value="结构地图更新" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="220" y="590" width="130" height="45" as="geometry" />
