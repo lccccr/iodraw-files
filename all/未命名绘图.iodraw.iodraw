@@ -46,10 +46,10 @@
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-15" value="状态预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-16" value="畸变校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="540" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-17" value="状态更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="590" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
