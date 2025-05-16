@@ -105,6 +105,9 @@
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-23" value="渲染" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="276.5" y="900" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="_Dc2JiTwuy_Aa-L4UX0m-24" target="_Dc2JiTwuy_Aa-L4UX0m-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-24" value="输出位姿" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="555" y="785" width="120" height="60" as="geometry" />
         </mxCell>
