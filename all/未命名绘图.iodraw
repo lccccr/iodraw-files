@@ -48,8 +48,8 @@
         <mxCell id="IM8HNvWXzFvTKMa9jwpP-14" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;接收器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="470" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IM8HNvWXzFvTKMa9jwpP-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="IM8HNvWXzFvTKMa9jwpP-15" value="t0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="318" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
