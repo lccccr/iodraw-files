@@ -82,7 +82,7 @@
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-27" value="LIO模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-28" value="&#xa;视觉模块&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-28" value="视觉模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
