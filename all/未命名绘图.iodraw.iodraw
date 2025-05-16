@@ -20,10 +20,10 @@
           <mxGeometry x="540" y="135" width="240" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-8" value="点云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Dc2JiTwuy_Aa-L4UX0m-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="560" height="340" as="geometry" />
