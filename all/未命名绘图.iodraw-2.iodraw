@@ -37,6 +37,9 @@
         <mxCell id="2bxBO5c3kxzYTyVZX63J-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="2bxBO5c3kxzYTyVZX63J-17">
           <mxGeometry x="108" y="10" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2bxBO5c3kxzYTyVZX63J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="2bxBO5c3kxzYTyVZX63J-17" source="2bxBO5c3kxzYTyVZX63J-22" target="2bxBO5c3kxzYTyVZX63J-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="2bxBO5c3kxzYTyVZX63J-17">
           <mxGeometry x="140" y="10" width="10" height="40" as="geometry" />
         </mxCell>
