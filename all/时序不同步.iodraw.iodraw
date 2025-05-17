@@ -159,8 +159,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cDz8b7HFY6xr7-QJD6e_-1" value="t&lt;sub style=&quot;font-size: 16px;&quot;&gt;ci&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#190033;" vertex="1" parent="1">
-          <mxGeometry x="420" y="450" width="40" height="40" as="geometry" />
+        <mxCell id="cDz8b7HFY6xr7-QJD6e_-1" value="t&lt;sub&gt;lj&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#190033;" vertex="1" parent="1">
+          <mxGeometry x="425" y="450" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
