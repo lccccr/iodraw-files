@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2bxBO5c3kxzYTyVZX63J-17" value="z" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
+        <mxCell id="2bxBO5c3kxzYTyVZX63J-17" value="z" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="155" width="770" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="2bxBO5c3kxzYTyVZX63J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="2bxBO5c3kxzYTyVZX63J-17" vertex="1">
+        <mxCell id="2bxBO5c3kxzYTyVZX63J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="2bxBO5c3kxzYTyVZX63J-17" vertex="1">
           <mxGeometry y="90" width="770" height="280" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="2bxBO5c3kxzYTyVZX63J-17" vertex="1">
