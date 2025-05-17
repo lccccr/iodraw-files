@@ -8,13 +8,13 @@
           <mxGeometry x="90" y="110" width="620" height="330" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="140" width="530" height="60" as="geometry" />
+          <mxGeometry x="135" y="155" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="230" width="530" height="60" as="geometry" />
+          <mxGeometry x="135" y="245" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="530" height="60" as="geometry" />
+          <mxGeometry x="135" y="335" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
