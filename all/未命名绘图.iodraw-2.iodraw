@@ -77,13 +77,13 @@
           <mxGeometry x="520" y="10" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="2bxBO5c3kxzYTyVZX63J-17">
-          <mxGeometry x="180" y="190" width="10" height="40" as="geometry" />
+          <mxGeometry x="180" y="190" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="2bxBO5c3kxzYTyVZX63J-17">
-          <mxGeometry x="260" y="190" width="10" height="40" as="geometry" />
+          <mxGeometry x="260" y="190" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-75" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="2bxBO5c3kxzYTyVZX63J-17">
-          <mxGeometry x="340" y="190" width="10" height="40" as="geometry" />
+          <mxGeometry x="340" y="190" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bxBO5c3kxzYTyVZX63J-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="2bxBO5c3kxzYTyVZX63J-17">
           <mxGeometry x="420" y="190" width="10" height="40" as="geometry" />
