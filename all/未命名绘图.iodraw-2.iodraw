@@ -16,7 +16,7 @@
         <mxCell id="36JFKMRH7f6ZEgTqj4JV-4" value="视觉模块(VIO)&lt;div&gt;功能:估计图像采集&lt;br&gt;&lt;/div&gt;&lt;div&gt;时刻的位姿(定位)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="220" y="232.5" width="270" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="36JFKMRH7f6ZEgTqj4JV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="36JFKMRH7f6ZEgTqj4JV-5" value="雷达模块(LIO)&lt;div&gt;&lt;div&gt;功能:定位并恢复场&lt;/div&gt;&lt;div&gt;景的几何结构&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="220" y="412.5" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="36JFKMRH7f6ZEgTqj4JV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
