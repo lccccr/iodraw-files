@@ -247,7 +247,7 @@
             <mxPoint x="340.24" y="497.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dvoj5aUrpfOW1o6mofpA-152" value="50ms" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="dvoj5aUrpfOW1o6mofpA-152" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="570" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
