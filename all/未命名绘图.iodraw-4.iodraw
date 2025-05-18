@@ -10,7 +10,7 @@
         <mxCell id="w7AL6dkDP7WaUvDQUH9N-2" value="当前帧点云 P&lt;sub style=&quot;background-color: initial;&quot;&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7AL6dkDP7WaUvDQUH9N-3" value="当前帧图像&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;I&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="w7AL6dkDP7WaUvDQUH9N-3" value="&lt;pre style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;span style=&quot;color: rgb(80, 161, 79);&quot; class=&quot;token text string&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;动态目标边界框 B&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
