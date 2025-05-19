@@ -8,7 +8,7 @@
           <mxGeometry x="382.78" y="150" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-2" value="从不同角度拍摄若干张模板图像" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="389.45" y="250" width="193.33" height="40" as="geometry" />
+          <mxGeometry x="386.12" y="240" width="193.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-3" value="检测出图像中的特征点" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="410.28" y="370" width="151.67" height="60" as="geometry" />
