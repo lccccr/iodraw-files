@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-1" value="打印-张模板并贴在一个平面上" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="392" y="150" width="200" height="40" as="geometry" />
+          <mxGeometry x="389" y="150" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-2" value="从不同角度拍摄若干张模板图像" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="243" width="193.33" height="40" as="geometry" />
+          <mxGeometry x="392" y="243" width="193.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-3" value="检测出图像中的特征点" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="406.95" y="337" width="151.67" height="40" as="geometry" />
+          <mxGeometry x="413.165" y="337" width="151.67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-4" value="求解理想无畸变情况下的摄像机的内参数和外参数并用极大似然估计提升精度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="453.33" height="40" as="geometry" />
+          <mxGeometry x="262.33500000000004" y="430" width="453.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-5" value="应用最小二乘求出实际的径向畸变系数" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="523" width="293.33" height="40" as="geometry" />
+          <mxGeometry x="342" y="523" width="293.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-6" value="综合内参,外参,畸变系数,使用极大似然法,优化估计,提升估计精度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="617" width="383.33" height="40" as="geometry" />
+          <mxGeometry x="297" y="617" width="383.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-7" value="相机的内参,外参和畸变系数" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="710" width="193.33" height="40" as="geometry" />
+          <mxGeometry x="392" y="710" width="193.33" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
