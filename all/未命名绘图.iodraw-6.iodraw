@@ -16,8 +16,11 @@
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-4" value="求解理想无畸变情况下的摄像机的内参数和外参数并用极大似然估计提升精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-5" value="应用最小二乘求出实际的径向畸变系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
