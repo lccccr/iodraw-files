@@ -4,17 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHVBtuWmkkgLcZDQXm3j-1" target="iHVBtuWmkkgLcZDQXm3j-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-1" value="打印-张模板并贴在一个平面上" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHVBtuWmkkgLcZDQXm3j-2" target="iHVBtuWmkkgLcZDQXm3j-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-2" value="从不同角度拍摄若干张模板图像" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="593.335" y="242" width="193.33" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHVBtuWmkkgLcZDQXm3j-3" target="iHVBtuWmkkgLcZDQXm3j-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-3" value="检测出图像中的特征点" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="614.165" y="313" width="151.67" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHVBtuWmkkgLcZDQXm3j-4" target="iHVBtuWmkkgLcZDQXm3j-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-4" value="求解理想无畸变情况下的摄像机的内参数和外参数并用极大似然估计提升精度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="463.33500000000004" y="385" width="453.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHVBtuWmkkgLcZDQXm3j-5" target="iHVBtuWmkkgLcZDQXm3j-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-5" value="应用最小二乘求出实际的径向畸变系数" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="543.335" y="457" width="293.33" height="40" as="geometry" />
