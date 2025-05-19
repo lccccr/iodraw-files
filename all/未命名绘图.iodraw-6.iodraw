@@ -8,10 +8,10 @@
           <mxGeometry x="382.78" y="150" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-2" value="从不同角度拍摄若干张模板图像" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="186.66666666666666" y="250" width="592.2222222222222" height="60" as="geometry" />
+          <mxGeometry x="389.45" y="250" width="193.33" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-3" value="检测出图像中的特征点" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="118.33333333333333" y="320" width="683.3333333333333" height="60" as="geometry" />
+          <mxGeometry x="414" y="330" width="151.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-4" value="求解理想无畸变情况下的摄像机的内参数和外参数并用极大似然估计提升精度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="186.66666666666666" y="390" width="546.6666666666666" height="60" as="geometry" />
