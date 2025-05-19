@@ -20,10 +20,10 @@
           <mxGeometry x="186.66666666666666" y="480" width="546.6666666666666" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-6" value="综合内参,外参,畸变系数,使用极大似然法,优化估计,提升估计精度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="186.66666666666666" y="555" width="546.6666666666666" height="60" as="geometry" />
+          <mxGeometry x="294.45" y="640" width="383.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iHVBtuWmkkgLcZDQXm3j-7" value="相机的内参,外参和畸变系数" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="386.11" y="690" width="193.33" height="60" as="geometry" />
+          <mxGeometry x="386.11" y="710" width="193.33" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
