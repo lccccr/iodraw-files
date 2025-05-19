@@ -4,26 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-1" value="打印-张模板并贴在一个平面上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="180" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="170" width="820" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-2" value="从不同角度拍摄若干张模板图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="130" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-1" value="打印-张模板并贴在一个平面上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry width="820" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-3" value="检测出图像中的特征点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="320" width="150" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-2" value="从不同角度拍摄若干张模板图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry x="136.66666666666666" y="80" width="592.2222222222222" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-4" value="求解理想无畸变情况下的摄像机的内参数和外参数并用极大似然估计提升精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-3" value="检测出图像中的特征点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry x="68.33333333333333" y="150" width="683.3333333333333" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-5" value="应用最小二乘求出实际的径向畸变系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-4" value="求解理想无畸变情况下的摄像机的内参数和外参数并用极大似然估计提升精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry x="136.66666666666666" y="220" width="546.6666666666666" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-6" value="综合内参,外参,畸变系数,使用极大似然法,优化估计,提升估计精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-5" value="应用最小二乘求出实际的径向畸变系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry x="136.66666666666666" y="310" width="546.6666666666666" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHVBtuWmkkgLcZDQXm3j-7" value="相机的内参,外参和畸变系数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-6" value="综合内参,外参,畸变系数,使用极大似然法,优化估计,提升估计精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry x="136.66666666666666" y="385" width="546.6666666666666" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHVBtuWmkkgLcZDQXm3j-7" value="相机的内参,外参和畸变系数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iHVBtuWmkkgLcZDQXm3j-8">
+          <mxGeometry x="136.66666666666666" y="470" width="546.6666666666666" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
