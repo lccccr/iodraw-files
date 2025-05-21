@@ -22,7 +22,7 @@
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-7" value="预积分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="70b8tT9d4Kp6VsgYWNBh-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-8" value="状态传播" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="450" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-10" value="去偏斜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="930" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-15" value="状态估计" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
