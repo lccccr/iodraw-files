@@ -38,7 +38,7 @@
           <mxGeometry x="930" y="310" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-15" value="状态估计" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="790" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="790" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-16" value="240赫兹里程计" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="660" y="530" width="130" height="40" as="geometry" />
