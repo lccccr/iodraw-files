@@ -61,7 +61,12 @@
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="939.4285714285714" y="460" as="targetPoint" />
+            <mxPoint x="950" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="848" y="410" />
+              <mxPoint x="940" y="410" />
+              <mxPoint x="940" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-11" value="联合优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=17;" vertex="1" parent="1">
