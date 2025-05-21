@@ -36,6 +36,9 @@
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-4" value="同步模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="140" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-5" target="70b8tT9d4Kp6VsgYWNBh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-5" value="特征提取与匹配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="140" height="150" as="geometry" />
         </mxCell>
@@ -106,6 +109,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-2" target="70b8tT9d4Kp6VsgYWNBh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.307;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-7" target="70b8tT9d4Kp6VsgYWNBh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
