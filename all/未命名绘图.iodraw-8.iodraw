@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qYfdwYZgnznMhLWPI7tt">
-    <mxGraphModel dx="1131" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="377" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-3" value="惯性测量单元（240赫兹）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-4" target="70b8tT9d4Kp6VsgYWNBh-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-4" value="同步模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="140" height="150" as="geometry" />
@@ -26,7 +29,7 @@
           <mxGeometry x="540" y="450" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-10" value="去偏斜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="140" height="80" as="geometry" />
+          <mxGeometry x="400" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-11" value="联合优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="750" y="210" width="130" height="150" as="geometry" />
