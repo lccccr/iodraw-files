@@ -29,7 +29,7 @@
           <mxGeometry x="540" y="450" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-10" value="去偏斜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="140" height="40" as="geometry" />
+          <mxGeometry x="400" y="290" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-11" value="联合优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="750" y="210" width="130" height="150" as="geometry" />
