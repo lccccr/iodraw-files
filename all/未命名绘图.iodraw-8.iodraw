@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-1" value="图像（15赫兹）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -113,9 +116,6 @@
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.307;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-7" target="70b8tT9d4Kp6VsgYWNBh-11">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="70b8tT9d4Kp6VsgYWNBh-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
