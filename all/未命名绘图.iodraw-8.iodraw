@@ -31,7 +31,7 @@
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-11" value="联合优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="750" y="210" width="130" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="70b8tT9d4Kp6VsgYWNBh-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="70b8tT9d4Kp6VsgYWNBh-12" value="体素地图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="930" y="210" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
