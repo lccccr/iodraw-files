@@ -61,11 +61,9 @@
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="460" as="targetPoint" />
+            <mxPoint x="960" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="848" y="410" />
-              <mxPoint x="940" y="410" />
-              <mxPoint x="940" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,7 +89,7 @@
           <mxGeometry x="440" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-19" value="10赫兹建图" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="820" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="860" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="70b8tT9d4Kp6VsgYWNBh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="70b8tT9d4Kp6VsgYWNBh-1">
           <mxGeometry relative="1" as="geometry">
