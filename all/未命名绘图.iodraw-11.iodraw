@@ -25,26 +25,28 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="位置、位姿是否满足&lt;div&gt;结束条件？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="125" y="500" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AcX8S_4FkcuM5P28lRoP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AcX8S_4FkcuM5P28lRoP-1" target="AcX8S_4FkcuM5P28lRoP-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AcX8S_4FkcuM5P28lRoP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="AcX8S_4FkcuM5P28lRoP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219.99999999999977" y="170" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AcX8S_4FkcuM5P28lRoP-2" target="AcX8S_4FkcuM5P28lRoP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-2" value="标定相机内参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AcX8S_4FkcuM5P28lRoP-3" target="AcX8S_4FkcuM5P28lRoP-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-3" value="拍摄不同角度图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-4" value="计算外参数，计算相机位置、姿态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AcX8S_4FkcuM5P28lRoP-4" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AcX8S_4FkcuM5P28lRoP-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
