@@ -60,6 +60,9 @@
         <mxCell id="PPTDaEv-Szp48rBHzxth-11" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;群众举报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="491.25" y="170" width="157.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PPTDaEv-Szp48rBHzxth-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="PPTDaEv-Szp48rBHzxth-12" target="JwkF0i5HGF-oI0pNWSe7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-12" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;协调公安进行事件调查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="610" width="160" height="50" as="geometry" />
         </mxCell>
