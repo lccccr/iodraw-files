@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-12" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;跟踪故障处理进度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="460" width="160" height="60" as="geometry" />
+          <mxGeometry x="360" y="470" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-13" target="JwkF0i5HGF-oI0pNWSe7-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
