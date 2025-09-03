@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-1" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="390" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="180" height="100" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-4" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="400" y="540" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
