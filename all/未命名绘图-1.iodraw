@@ -11,7 +11,7 @@
           <mxGeometry x="332.5" y="415" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-4" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="390" y="750" width="100" height="40" as="geometry" />
+          <mxGeometry x="390" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;管理员立即切断信号&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;并上报上级部门&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="315" y="370" width="250" height="60" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="350" y="524.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-13" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;故障恢复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="590" y="505" width="160" height="50" as="geometry" />
+          <mxGeometry x="590" y="610" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-14" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;维护责任单位&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;反馈故障情况&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="660" width="160" height="60" as="geometry" />
+          <mxGeometry x="360" y="710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-14" target="JwkF0i5HGF-oI0pNWSe7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
