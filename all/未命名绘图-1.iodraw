@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="DAWb7ob2aQPYKUXrcgn_">
+    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-1" target="JwkF0i5HGF-oI0pNWSe7-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-1" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-2" target="JwkF0i5HGF-oI0pNWSe7-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-2" target="JwkF0i5HGF-oI0pNWSe7-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-2" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;维护责任单位现场故障&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;判定、核实影响范围&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="275" y="250" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-4" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="370" y="810" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;管理人员获取发布信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-5" target="JwkF0i5HGF-oI0pNWSe7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-9" target="JwkF0i5HGF-oI0pNWSe7-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-9" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;现场处理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-10" target="JwkF0i5HGF-oI0pNWSe7-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-10" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;寻求上级部门支援&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="570" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-11" target="JwkF0i5HGF-oI0pNWSe7-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-11" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;协同上级部门现场处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="570" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-12" target="JwkF0i5HGF-oI0pNWSe7-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-12" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;跟踪故障处理进度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="340" y="525" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-13" target="JwkF0i5HGF-oI0pNWSe7-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-13" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;故障恢复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="340" y="620" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-14" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;维护责任单位&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;反馈故障情况&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="340" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-14" target="JwkF0i5HGF-oI0pNWSe7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
