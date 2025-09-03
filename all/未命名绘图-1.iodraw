@@ -35,10 +35,10 @@
           <mxGeometry x="305" y="240" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-10" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;管理人员获取发布信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="160" width="157.5" height="60" as="geometry" />
+          <mxGeometry x="240" y="170" width="157.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-11" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;管理人员获取发布信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="80" width="157.5" height="60" as="geometry" />
+          <mxGeometry x="500" y="170" width="157.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
