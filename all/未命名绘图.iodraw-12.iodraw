@@ -46,6 +46,9 @@
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-11" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;协同上级部门现场处置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwkF0i5HGF-oI0pNWSe7-12" target="JwkF0i5HGF-oI0pNWSe7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-12" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;跟踪故障处理进度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="525" width="160" height="60" as="geometry" />
         </mxCell>
