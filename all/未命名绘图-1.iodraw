@@ -17,7 +17,7 @@
           <mxGeometry x="315" y="370" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-13" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;故障恢复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="590" y="610" width="160" height="50" as="geometry" />
+          <mxGeometry x="560" y="610" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-14" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;维护责任单位&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;反馈故障情况&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="710" width="160" height="60" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="491.25" y="170" width="157.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-12" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;故障恢复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="610" width="160" height="50" as="geometry" />
+          <mxGeometry x="360" y="610" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-13" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;故障恢复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="610" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="610" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
