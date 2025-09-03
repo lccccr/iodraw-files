@@ -14,7 +14,7 @@
           <mxGeometry x="390" y="750" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;管理人员获取发布信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="350" y="355" width="250" height="60" as="geometry" />
+          <mxGeometry x="315" y="370" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-9" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;信息播放人员内容审核&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="480" width="130" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-9" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;管理人员获取发布信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="240" width="250" height="60" as="geometry" />
+          <mxGeometry x="315" y="270" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PPTDaEv-Szp48rBHzxth-10" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;实时监听&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231.25" y="170" width="157.5" height="60" as="geometry" />
