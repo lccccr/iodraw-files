@@ -14,7 +14,7 @@
           <mxGeometry x="275" y="250" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-4" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="700" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;发现故障并上报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="160" height="60" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-12" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;发现故障并上报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="585" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-13" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;发现故障并上报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
