@@ -13,7 +13,7 @@
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="JwkF0i5HGF-oI0pNWSe7-2" target="JwkF0i5HGF-oI0pNWSe7-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwkF0i5HGF-oI0pNWSe7-2" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;信息类别&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="JwkF0i5HGF-oI0pNWSe7-2" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;信息类别&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;判定&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="410" y="250" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-4" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;仿宋_GB2312&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
