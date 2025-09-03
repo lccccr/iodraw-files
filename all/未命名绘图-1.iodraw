@@ -28,15 +28,17 @@
         <mxCell id="PPTDaEv-Szp48rBHzxth-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="JwkF0i5HGF-oI0pNWSe7-9" target="JwkF0i5HGF-oI0pNWSe7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPTDaEv-Szp48rBHzxth-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="JwkF0i5HGF-oI0pNWSe7-9" target="JwkF0i5HGF-oI0pNWSe7-5">
+        <mxCell id="PPTDaEv-Szp48rBHzxth-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="415" as="sourcePoint" />
+            <mxPoint x="565" y="195" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="410" />
-              <mxPoint x="660" y="190" />
+              <mxPoint x="660" y="415" />
+              <mxPoint x="660" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPTDaEv-Szp48rBHzxth-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPTDaEv-Szp48rBHzxth-6">
+        <mxCell id="PPTDaEv-Szp48rBHzxth-7" value="不合格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPTDaEv-Szp48rBHzxth-6">
           <mxGeometry x="0.1502" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
