@@ -31,6 +31,9 @@
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-5" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;管理员立即切断信号&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;并上报上级部门&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="315" y="370" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PPTDaEv-Szp48rBHzxth-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="JwkF0i5HGF-oI0pNWSe7-13" target="JwkF0i5HGF-oI0pNWSe7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JwkF0i5HGF-oI0pNWSe7-13" value="&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 21px;&quot;&gt;查明问题来源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="610" width="160" height="50" as="geometry" />
         </mxCell>
